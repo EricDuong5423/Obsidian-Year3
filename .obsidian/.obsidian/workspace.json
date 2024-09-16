@@ -138,6 +138,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fb34ac758ada939",
-  "lastOpenFiles": []
+  "active": "2f6aa96f464a129f",
+  "lastOpenFiles": [
+    "hotkeys.json"
+  ]
 }
