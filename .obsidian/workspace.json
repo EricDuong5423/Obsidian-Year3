@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Projects/Semester 1/Database/EERD.md",
+                "file": "4-Archive/Place holder.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Projects/Semester 1/Database/EERD.md",
+                "file": "4-Archive/Place holder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Projects/Semester 1/Database/EERD.md",
+                "file": "4-Archive/Place holder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Projects/Semester 1/Database/EERD.md"
+                "file": "4-Archive/Place holder.md"
               }
             }
           }
@@ -160,10 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5b017e1c57f9254",
+  "active": "5def8d88994c22af",
   "lastOpenFiles": [
-    "1-Projects/Semester 1/Database/Database.md",
+    "3-Resources/Place holder resources.md",
+    "4-Archive/Place holder.md",
+    "2-Areas/Place holder.md",
     "1-Projects/Semester 1/Database/EERD.md",
+    "1-Projects/Semester 1/Database/Database.md",
     "0-Inbox/Untitled.md",
     "1-Projects/Untitled.md",
     "1-Projects/Semester 1/Game development",
