@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Inbox/ER.md",
+                "file": "1-Projects/Semester 1/Database/ER.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Inbox/ER.md",
+                "file": "1-Projects/Semester 1/Database/ER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Inbox/ER.md",
+                "file": "1-Projects/Semester 1/Database/ER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Inbox/ER.md"
+                "file": "1-Projects/Semester 1/Database/ER.md"
               }
             }
           }
@@ -181,12 +181,15 @@
   },
   "active": "fcb1a3448f288e17",
   "lastOpenFiles": [
+    "Pasted image 20240916223539.png",
+    "1-Projects/Semester 1/Database/Entity picture.png",
+    "1-Projects/Semester 1/Database/ER.md",
+    "1-Projects/Semester 1/Database/Database.md",
     "1-Projects/Semester 1/Database/EERD.md",
-    "0-Inbox/ER.md",
+    "0-Inbox/Untitled.canvas",
     "2-Areas/Place holder.md",
     "3-Resources/Place holder resources.md",
     "4-Archive/Place holder.md",
-    "1-Projects/Semester 1/Database/Database.md",
     "1-Projects/Untitled.md",
     "1-Projects/Semester 1/Game development",
     "1-Projects/Semester 1/Networking",
