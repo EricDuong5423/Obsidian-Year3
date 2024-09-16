@@ -1,56 +1,17 @@
 {
   "main": {
-    "id": "759c518a9630660d",
+    "id": "f33b6464d2126f82",
     "type": "split",
     "children": [
       {
-        "id": "87101d5c4154409b",
+        "id": "c0cb2501d2ddfe24",
         "type": "tabs",
-        "dimension": 33.333333333333336,
         "children": [
           {
-            "id": "5def8d88994c22af",
+            "id": "9fb34ac758ada939",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Projects/Semester 1/Database/EERD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "bc9ab700db99d03e",
-        "type": "tabs",
-        "dimension": 33.333333333333336,
-        "children": [
-          {
-            "id": "fcb1a3448f288e17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Projects/Semester 1/Database/ER.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "d00d92d930dbbc7e",
-        "type": "tabs",
-        "dimension": 33.333333333333336,
-        "children": [
-          {
-            "id": "51aa898cce66866e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -60,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a5d965d729813fb0",
+    "id": "a19c11aa1051f0f7",
     "type": "split",
     "children": [
       {
-        "id": "c14c95374f7dd515",
+        "id": "a96cc94dc770eb57",
         "type": "tabs",
         "children": [
           {
-            "id": "c5b017e1c57f9254",
+            "id": "2f6aa96f464a129f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -78,7 +39,7 @@
             }
           },
           {
-            "id": "de5f0e91aba00732",
+            "id": "764a8b11a02b55d4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -93,7 +54,7 @@
             }
           },
           {
-            "id": "5387e46dece07e1f",
+            "id": "aae5c61677470dce",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -107,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "d963853d869e965a",
+    "id": "6808106d53484008",
     "type": "split",
     "children": [
       {
-        "id": "87ad3ae670f33292",
+        "id": "2f02c82f8e82bdfd",
         "type": "tabs",
         "children": [
           {
-            "id": "28e9cd8a31dec398",
+            "id": "dc17acb84753f37e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Projects/Semester 1/Database/ER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,19 +92,18 @@
             }
           },
           {
-            "id": "8c5e7a5931ee31bd",
+            "id": "3f3e8c46581260fc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Projects/Semester 1/Database/ER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4fe22b27cb47e8e8",
+            "id": "9a0784fe610d1697",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -155,13 +114,11 @@
             }
           },
           {
-            "id": "a650b237dfb5e2c0",
+            "id": "8dfc3b4eba485f5d",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1-Projects/Semester 1/Database/ER.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -181,30 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcb1a3448f288e17",
-  "lastOpenFiles": [
-    "Database-Management-System-ER-Model-4.png",
-    "1-Projects/Semester 1/Database/ER.md",
-    "Pasted image 20240916223942.png",
-    "Pasted image 20240916223539.png",
-    "1-Projects/Semester 1/Database/Entity picture.png",
-    "1-Projects/Semester 1/Database/Database.md",
-    "1-Projects/Semester 1/Database/EERD.md",
-    "0-Inbox/Untitled.canvas",
-    "2-Areas/Place holder.md",
-    "3-Resources/Place holder resources.md",
-    "4-Archive/Place holder.md",
-    "1-Projects/Untitled.md",
-    "1-Projects/Semester 1/Game development",
-    "1-Projects/Semester 1/Networking",
-    "1-Projects/Semester 1/Application Engineer",
-    "1-Projects/Semester 1/Database",
-    "1-Projects/Semester 1",
-    "Welcome.md",
-    "1-Projects/Database",
-    "4-Archive",
-    "3-Resources",
-    "2-Areas",
-    "1-Projects"
-  ]
+  "active": "9fb34ac758ada939",
+  "lastOpenFiles": []
 }
