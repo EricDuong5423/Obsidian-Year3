@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Place holder.md",
+                "file": "1-Projects/Semester 1/Database/EERD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "bc9ab700db99d03e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcb1a3448f288e17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Inbox/ER.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Place holder.md",
+                "file": "0-Inbox/ER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Place holder.md",
+                "file": "0-Inbox/ER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Place holder.md"
+                "file": "0-Inbox/ER.md"
               }
             }
           }
@@ -157,17 +175,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5def8d88994c22af",
+  "active": "fcb1a3448f288e17",
   "lastOpenFiles": [
+    "1-Projects/Semester 1/Database/EERD.md",
+    "0-Inbox/ER.md",
+    "2-Areas/Place holder.md",
     "3-Resources/Place holder resources.md",
     "4-Archive/Place holder.md",
-    "2-Areas/Place holder.md",
-    "1-Projects/Semester 1/Database/EERD.md",
     "1-Projects/Semester 1/Database/Database.md",
-    "0-Inbox/Untitled.md",
     "1-Projects/Untitled.md",
     "1-Projects/Semester 1/Game development",
     "1-Projects/Semester 1/Networking",
