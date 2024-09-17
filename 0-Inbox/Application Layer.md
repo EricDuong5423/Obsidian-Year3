@@ -44,4 +44,6 @@
 	- ==client==: gửi mail đến server
 	- =="server"==: nhận mail đến serverserver
 		![[Pasted image 20240917164408.png]]
-	
+- RFC (request for comments):
+	- Sử dụng TCP: SMTP sử dụng giao thức TCP để đảm bảo việc truyền email từ máy chủ gửi đến máy chủ nhận qua cổng 25.
+	- Chuyển tiếp trực tiếp: Máy chủ gửi email (như là một client) kết nối và 
