@@ -17,4 +17,17 @@ Ví dụ:
 ![[Pasted image 20240917075720.png]]
 ![[Pasted image 20240917075815.png]]
 ## Những đặc tả khác nhau của Requirements:
-- Ở trên hệ thống sẽ cần có requirement khác nhau cho từng 
+- Ở trên hệ thống sẽ cần có requirement khác nhau cho từng người sử dụng hệ thống
+![[Pasted image 20240917080243.png]]
+## Stakeholders của hệ thống:
+- Mọi người có tác động lên hệ thống bằng cách nào đó sẽ là một stakeholder của một hệ thống
+- Các kiểu của stakeholder:
+	- Người dùng đầu cuối
+	- Quản lý hệ thống
+	- Chủ sở hữu hệ thống
+	- Và Stakeholder bên ngoài
+Ví dụ: hệ thống mentcare
+![[Pasted image 20240917080733.png]]
+## Vấn đề về các documentations của hệ thống:
+- Dễ bị out of date
+- Chúng ta sẽ sử dụng Agile methods để tăng độ kỹ thuật 
