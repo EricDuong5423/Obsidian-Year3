@@ -4,28 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "87101d5c4154409b",
-        "type": "tabs",
-        "dimension": 33.333333333333336,
-        "children": [
-          {
-            "id": "5def8d88994c22af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Projects/Semester 1/Database/EERD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "bc9ab700db99d03e",
         "type": "tabs",
-        "dimension": 33.333333333333336,
+        "dimension": 50,
         "children": [
           {
             "id": "fcb1a3448f288e17",
@@ -38,13 +19,38 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe4ed8c03e2be05e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Inbox/Application Layer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "720eb722d820e1fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Inbox/Application Layer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "d00d92d930dbbc7e",
         "type": "tabs",
-        "dimension": 33.333333333333336,
+        "dimension": 50,
         "children": [
           {
             "id": "51aa898cce66866e",
@@ -120,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Projects/Semester 1/Database/ER.md",
+                "file": "0-Inbox/Application Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Projects/Semester 1/Database/ER.md",
+                "file": "0-Inbox/Application Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Projects/Semester 1/Database/ER.md"
+                "file": "0-Inbox/Application Layer.md"
               }
             }
           }
@@ -182,13 +188,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fcb1a3448f288e17",
+  "active": "720eb722d820e1fe",
   "lastOpenFiles": [
-    "Database-Management-System-ER-Model-4.png",
+    "conflict-files-obsidian-git.md",
+    "0-Inbox/Application Layer.md",
     "1-Projects/Semester 1/Database/ER.md",
-    "Pasted image 20240916223942.png",
-    "Pasted image 20240916223539.png",
-    "1-Projects/Semester 1/Database/Entity picture.png",
+    "our-process2-905x509.jpg",
+    "Pasted image 20240917164408.png",
+    "Pasted image 20240917163711.png",
+    "Pasted image 20240917163448.png",
+    "Pasted image 20240917162739.png",
+    "Pasted image 20240917162420.png",
+    "Pasted image 20240917162234.png",
+    "Pasted image 20240917162136.png",
+    "Pasted image 20240917162022.png",
+    "Pasted image 20240917161949.png",
+    "5-Image",
+    "4-Archive/Place holder Archive.md",
+    "1-Projects/Semester 1/Software Engineer/Requirement Engineer.md",
+    "1-Projects/Semester 1/Software Engineer",
+    "0-Inbox/Inbox placeholder.md",
+    "0-Inbox/Agile method.md",
     "1-Projects/Semester 1/Database/Database.md",
     "1-Projects/Semester 1/Database/EERD.md",
     "0-Inbox/Untitled.canvas",
@@ -204,8 +224,6 @@
     "Welcome.md",
     "1-Projects/Database",
     "4-Archive",
-    "3-Resources",
-    "2-Areas",
-    "1-Projects"
+    "3-Resources"
   ]
 }
