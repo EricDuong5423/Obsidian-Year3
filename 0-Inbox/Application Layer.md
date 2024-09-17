@@ -55,4 +55,8 @@
 	- **Email phải dùng định dạng 7-bit ASCII**: Nội dung email cần tuân theo tiêu chuẩn 7-bit ASCII
 - Ví dụ về gửi mail:![[Pasted image 20240917214404.png]]
 	 *Ở đây ta có thể thấy là người dùng Alice gửi cho người dùng Bob một email. Email đó phải đi qua con đường: User agent -> SMTP của mail server -> kết nối TCP đến server mail của Bob -> Bob đọc được email của Alice*
-	
+- **So sánh với HTTP**:
+	- HTTP là giao thức pull (lấy dữ liệu theo yêu cầu), còn SMTP là push (gửi dữ liệu từ client đến server)
+	- Cả HTTP và SMTP đều có tương tác lệnh/phản hồi qua ASCII và sử dụng mã trạng thái.
+	- **HTTP**: Mỗi đối tượng được đóng gói trong thông điệp phản hồi riêng lẻ.
+	- **SMTP**: Nhiều đối tượng được gửi trong một thông điệp dạng multipart.
