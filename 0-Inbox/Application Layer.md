@@ -46,4 +46,9 @@
 		![[Pasted image 20240917164408.png]]
 - RFC (request for comments):
 	- Sử dụng TCP: SMTP sử dụng giao thức TCP để đảm bảo việc truyền email từ máy chủ gửi đến máy chủ nhận qua cổng 25.
-	- Chuyển tiếp trực tiếp: Máy chủ gửi email (như là một client) kết nối và 
+	- Chuyển tiếp trực tiếp: Máy chủ gửi email (như là một client) kết nối và truyền email trực tiếp tới máy chủ nhận.
+	- Ba giai đoạn chuyển giao:
+		1. **Bắt tay (handshaking)**: Hai máy chủ giao tiếp để thiết lập kết nối.
+		2. **Chuyển mail**: Truyền tải các thông điệp email
+		3. **Đóng kết nối**: Kết thúc quá trình giao tiếp
+	- **Tương tác/**
