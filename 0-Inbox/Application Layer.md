@@ -60,3 +60,8 @@
 	- Cả HTTP và SMTP đều có tương tác lệnh/phản hồi qua ASCII và sử dụng mã trạng thái.
 	- **HTTP**: Mỗi đối tượng được đóng gói trong thông điệp phản hồi riêng lẻ.
 	- **SMTP**: Nhiều đối tượng được gửi trong một thông điệp dạng multipart.
+- **SMTP** sử dụng kết nối lâu dài (persistent connections).
+- **SMTP** yêu cầu thông điệp (phần header và body) phải ở định dạng 7-bit ASCII.
+- **SMTP server** sử dụng cặp ký tự **CRLF.CRLF** để xác định kết thúc của thông điệp.
+- Format của mail:![[Pasted image 20240917222032.png]]
+- 
