@@ -4,42 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "bc9ab700db99d03e",
-        "type": "tabs",
-        "dimension": 50,
+        "id": "b5b4e230f4fdef71",
+        "type": "split",
         "children": [
           {
-            "id": "fcb1a3448f288e17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Projects/Semester 1/Database/Database.md",
-                "mode": "source",
-                "source": false
+            "id": "d1374dcaf14b4253",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e12f6c098cb94b79",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "d00d92d930dbbc7e",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
+            ]
+          },
           {
-            "id": "51aa898cce66866e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Projects/Semester 1/Networking/Untitled.md",
-                "mode": "source",
-                "source": false
+            "id": "9746cd1be3795a9b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "77348252d8345239",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0-Inbox/Requirement Engineer.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Projects/Semester 1/Database/Database.md",
+                "file": "0-Inbox/Requirement Engineer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Projects/Semester 1/Database/Database.md",
+                "file": "0-Inbox/Requirement Engineer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Projects/Semester 1/Database/Database.md"
+                "file": "0-Inbox/Requirement Engineer.md"
               }
             }
           }
@@ -167,14 +168,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fcb1a3448f288e17",
+  "active": "77348252d8345239",
   "lastOpenFiles": [
-    "1-Projects/Semester 1/Networking/Untitled.md",
+    "0-Inbox/Requirement Engineer.md",
+    "0-Inbox/Inbox placeholder.md",
+    "Untitled.md",
+    "0-Inbox",
     "1-Projects/Semester 1/Database/ER.md",
+    "1-Projects/Semester 1/Application Engineer",
+    "1-Projects/Semester 1/Database/Database.md",
+    "1-Projects/Semester 1/Networking/Untitled.md",
     "1-Projects/Semester 1/Networking",
     "1-Projects/Semester 1/Database/Untitled.md",
     "1-Projects/Semester 1/Database/EERD.md",
-    "1-Projects/Semester 1/Database/Database.md",
     "4-Archive/Place holder Archive.md",
     "Database-Management-System-ER-Model-4.png",
     "Pasted image 20240916223942.png",
@@ -191,8 +197,6 @@
     "1-Projects/Semester 1",
     "Welcome.md",
     "1-Projects/Database",
-    "4-Archive",
-    "3-Resources",
-    "2-Areas"
+    "4-Archive"
   ]
 }
