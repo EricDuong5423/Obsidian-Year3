@@ -51,4 +51,8 @@
 		1. **Bắt tay (handshaking)**: Hai máy chủ giao tiếp để thiết lập kết nối.
 		2. **Chuyển mail**: Truyền tải các thông điệp email
 		3. **Đóng kết nối**: Kết thúc quá trình giao tiếp
-	- **Tương tác/**
+	- **Tương tác lệnh/ phản hồi**: Giao thức hoạt động dựa trên việc gửi lệnh (dưới dạng văn bản ASCII) và nhận phản hồi (mã trạng thái và câu trả lời), tương tự như HTTP
+	- **Email phải dùng định dạng 7-bit ASCII**: Nội dung email cần tuân theo tiêu chuẩn 7-bit ASCII
+- Ví dụ về gửi mail:![[Pasted image 20240917214404.png]]
+	 *Ở đây ta có thể thấy là người dùng Alice gửi cho người dùng Bob một email. Email đó phải đi qua con đường: User agent -> SMTP của mail server -> kết nối TCP đến server mail của Bob -> Bob đọc được email của Alice*
+	
