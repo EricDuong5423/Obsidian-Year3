@@ -36,8 +36,19 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "2870008ed541b029",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.6.7"
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -168,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77348252d8345239",
+  "active": "2870008ed541b029",
   "lastOpenFiles": [
     "Pasted image 20240917080733.png",
     "5-Image",
