@@ -65,3 +65,12 @@
 - **SMTP server** sử dụng cặp ký tự **CRLF.CRLF** để xác định kết thúc của thông điệp.
 - Format của mail:![[Pasted image 20240917222032.png]]
 ## DNS: Domain Name System:
+- **Định danh của host và router trên Internet**:
+	- **Địa chỉ IP** (32-bit): Dùng để định địa chỉ gói dữ liệu.
+	- **Tên miền** (ví dụ: hcmut.edu.vn): Được sử dụng bởi con người.
+- **Hệ thống DNS**:
+	- **Cơ sở dữ liệu phân tán**: Được triển khai theo dạng phân cấp của nhiều máy chủ tên (name servers).
+	- **Giao thức tầng ứng dụng**: Các máy chủ và hosts giao tiếp để giải quyết tên miền (dịch tên miền sang địa chỉ IP và ngược lại).
+	- **Chức năng cốt lõi của Internet**: DNS là một phần của tầng của ứng dụng, giúp Internet hoạt động.
+	- **Độ phức tạp**: Được tập trung tại rìa của mạng.
+	
