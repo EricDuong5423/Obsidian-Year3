@@ -64,4 +64,4 @@
 - **SMTP** yêu cầu thông điệp (phần header và body) phải ở định dạng 7-bit ASCII.
 - **SMTP server** sử dụng cặp ký tự **CRLF.CRLF** để xác định kết thúc của thông điệp.
 - Format của mail:![[Pasted image 20240917222032.png]]
-- 
+## DNS: Domain Name System:
