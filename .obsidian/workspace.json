@@ -10,6 +10,7 @@
           {
             "id": "d1374dcaf14b4253",
             "type": "tabs",
+            "dimension": 30.13565891472868,
             "children": [
               {
                 "id": "e12f6c098cb94b79",
@@ -22,33 +23,48 @@
             ]
           },
           {
-            "id": "9746cd1be3795a9b",
-            "type": "tabs",
+            "id": "9cd2a9ddc289ecd4",
+            "type": "split",
+            "dimension": 69.86434108527132,
             "children": [
               {
-                "id": "77348252d8345239",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "0-Inbox/Requirement Engineer.md",
-                    "mode": "source",
-                    "source": false
+                "id": "9746cd1be3795a9b",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "77348252d8345239",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1-Projects/Semester 1/Software Engineer/Requirement Engineer.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
                   }
-                }
+                ]
               },
               {
-                "id": "2870008ed541b029",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.6.7"
+                "id": "8d3c80eb358090a3",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "5f91670a78f3d2db",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "0-Inbox/Agile method.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
                   }
-                }
+                ]
               }
             ],
-            "currentTab": 1
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -117,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Inbox/Requirement Engineer.md",
+                "file": "0-Inbox/Agile method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Inbox/Requirement Engineer.md",
+                "file": "0-Inbox/Agile method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Inbox/Requirement Engineer.md"
+                "file": "0-Inbox/Agile method.md"
               }
             }
           }
@@ -179,15 +195,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2870008ed541b029",
+  "active": "5f91670a78f3d2db",
   "lastOpenFiles": [
+    "our-process2-905x509.jpg",
+    "0-Inbox/Agile method.md",
+    "1-Projects/Semester 1/Software Engineer/Requirement Engineer.md",
+    "0-Inbox/Inbox placeholder.md",
     "Pasted image 20240917080733.png",
     "5-Image",
     "5-Image/Pasted image 20240917080243.png",
     "5-Image/Pasted image 20240917075815.png",
     "5-Image/Pasted image 20240917075720.png",
-    "0-Inbox/Requirement Engineer.md",
-    "0-Inbox/Inbox placeholder.md",
     "Untitled.md",
     "0-Inbox",
     "1-Projects/Semester 1/Database/ER.md",

@@ -30,4 +30,5 @@ Ví dụ: hệ thống mentcare
 ![[Pasted image 20240917080733.png]]
 ## Vấn đề về các documentations của hệ thống:
 - Dễ bị out of date
-- Chúng ta sẽ sử dụng Agile methods để tăng độ kỹ thuật 
+- Chúng ta sẽ sử dụng Agile methods để tăng độ linh hoạt trước các requirement thay đổi liên tục từ các Stakeholder [[Agile method]]
+- 
