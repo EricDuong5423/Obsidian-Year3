@@ -1,0 +1,15 @@
+- 3 Bước phát triển game:
+	- Concept:
+		- What: Thể loại, Giá, Tuổi, cốt truyện.
+		- Where: Platform,  Dev/ Game Engine, Location
+		- How: Award, Gameplay, Rules, Moneytize
+	- Design:
+		- UI: Color, theme, text/font, VI component (Buttons, Seller), ==Prototype==
+		- UX: Easy to use, layout/visibility.
+		- Accesibility
+		- Graphics: Game object, animation/ VFX
+	- Dev:
+		- Implemented: Scene, Game object, Interaction, Report, Assistant.
+		- Test
+		- Deploy
+		- Backend: Server/ database, Security, CT/CD

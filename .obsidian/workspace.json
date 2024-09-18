@@ -22,15 +22,19 @@
         ]
       },
       {
-        "id": "d1374dcaf14b4253",
+        "id": "6e9fa5bf5e5a9b84",
         "type": "tabs",
         "children": [
           {
-            "id": "e12f6c098cb94b79",
+            "id": "a2c1a85621a09347",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0-Inbox/Game.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Projects/Semester 1/Networking/Application Layer.md",
+                "file": "0-Inbox/Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Projects/Semester 1/Networking/Application Layer.md",
+                "file": "0-Inbox/Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Projects/Semester 1/Networking/Application Layer.md"
+                "file": "0-Inbox/Game.md"
               }
             }
           },
@@ -169,23 +173,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ddab8e0f157544cb",
+  "active": "a2c1a85621a09347",
   "lastOpenFiles": [
+    "0-Inbox/Inbox placeholder.md",
+    "0-Inbox/Game.md",
+    "1-Projects/Semester 1/Game programming",
+    "1-Projects/Untitled",
+    "1-Projects/Semester 1/Networking/Application Layer.md",
     "Pasted image 20240918074124.png",
     "Pasted image 20240918073711.png",
     "Pasted image 20240918073520.png",
     "Pasted image 20240918071451.png",
     "Pasted image 20240918071448.png",
-    "0-Inbox/Inbox placeholder.md",
     "1-Projects/Semester 1/Software Engineer/Requirement Engineer.md",
     "0-Inbox/Web app.md",
     "Pasted image 20240917222032.png",
     "Pasted image 20240917214404.png",
-    "1-Projects/Semester 1/Networking/Application Layer.md",
     "Pasted image 20240917164408.png",
     "Pasted image 20240917163711.png",
     "Pasted image 20240917163448.png",
-    "Pasted image 20240917162739.png",
     "0-Inbox/Untitled.canvas",
     "0-Inbox/Agile method.md",
     "5-Image",
@@ -206,8 +212,6 @@
     "1-Projects/Semester 1/Networking",
     "1-Projects/Semester 1/Software Engineer",
     "1-Projects/Semester 1/Database",
-    "1-Projects/Semester 1",
-    "Welcome.md",
-    "1-Projects/Database"
+    "Welcome.md"
   ]
 }
