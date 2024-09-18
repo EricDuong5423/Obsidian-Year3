@@ -1,5 +1,5 @@
 {
-  "commitMessage": "vault backup: {{date}}--- {{hostname}}---{{numFiles}}",
+  "commitMessage": "vault backup: {{date}}---{{hostname}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 15,
   "autoPushInterval": 0,
@@ -14,7 +14,7 @@
   "updateSubmodules": false,
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": true,
+  "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
@@ -54,5 +54,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "vault backup: {{date}}--- {{hostname}}---{{numFiles}}"
+  "autoCommitMessage": "vault backup: {{date}}---{{hostname}}"
 }
