@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Projects/Semester 1/Database/ER.md",
+                "file": "1-Projects/Semester 1/Networking/Application Layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Projects/Semester 1/Database/ER.md",
+                "file": "1-Projects/Semester 1/Networking/Application Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Projects/Semester 1/Database/ER.md",
+                "file": "1-Projects/Semester 1/Networking/Application Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Projects/Semester 1/Database/ER.md"
+                "file": "1-Projects/Semester 1/Networking/Application Layer.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "fcb1a3448f288e17",
   "lastOpenFiles": [
+    "1-Projects/Semester 1/Game development/Game.md",
+    "1-Projects/Semester 1/Database/ER.md",
     "0-Inbox/Application Layer.md",
     "Pasted image 20240918074124.png",
     "Pasted image 20240918073711.png",
@@ -156,11 +158,9 @@
     "Pasted image 20240918071451.png",
     "Pasted image 20240918071448.png",
     "1-Projects/Semester 1/Networking/Application Layer.md",
-    "0-Inbox/Game.md",
     "Pasted image 20240917222032.png",
     "Pasted image 20240917214404.png",
     "conflict-files-obsidian-git.md",
-    "1-Projects/Semester 1/Database/ER.md",
     "our-process2-905x509.jpg",
     "Pasted image 20240917164408.png",
     "Pasted image 20240917163711.png",
