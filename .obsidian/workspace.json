@@ -4,47 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "bc9ab700db99d03e",
+        "id": "e8e9920cee34793e",
         "type": "tabs",
         "children": [
           {
-            "id": "fcb1a3448f288e17",
+            "id": "ddab8e0f157544cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Projects/Semester 1/Database/ER.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe4ed8c03e2be05e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Inbox/Application Layer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "720eb722d820e1fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Inbox/Application Layer.md",
+                "file": "1-Projects/Semester 1/Networking/Application Layer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "d1374dcaf14b4253",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e12f6c098cb94b79",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Inbox/Application Layer.md",
+                "file": "1-Projects/Semester 1/Networking/Application Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Inbox/Application Layer.md",
+                "file": "1-Projects/Semester 1/Networking/Application Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Inbox/Application Layer.md"
+                "file": "1-Projects/Semester 1/Networking/Application Layer.md"
               }
             }
           }
@@ -172,14 +161,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "720eb722d820e1fe",
+  "active": "c5b017e1c57f9254",
   "lastOpenFiles": [
+    "0-Inbox/Inbox placeholder.md",
+    "1-Projects/Semester 1/Software Engineer/Requirement Engineer.md",
+    "0-Inbox/Web app.md",
     "Pasted image 20240917222032.png",
     "Pasted image 20240917214404.png",
-    "conflict-files-obsidian-git.md",
-    "0-Inbox/Application Layer.md",
-    "1-Projects/Semester 1/Database/ER.md",
-    "our-process2-905x509.jpg",
+    "1-Projects/Semester 1/Networking/Application Layer.md",
     "Pasted image 20240917164408.png",
     "Pasted image 20240917163711.png",
     "Pasted image 20240917163448.png",
@@ -187,28 +176,29 @@
     "Pasted image 20240917162420.png",
     "Pasted image 20240917162234.png",
     "Pasted image 20240917162136.png",
-    "Pasted image 20240917162022.png",
-    "5-Image",
-    "4-Archive/Place holder Archive.md",
-    "1-Projects/Semester 1/Software Engineer/Requirement Engineer.md",
-    "1-Projects/Semester 1/Software Engineer",
-    "0-Inbox/Inbox placeholder.md",
-    "0-Inbox/Agile method.md",
-    "1-Projects/Semester 1/Database/Database.md",
-    "1-Projects/Semester 1/Database/EERD.md",
     "0-Inbox/Untitled.canvas",
+    "Pasted image 20240917162022.png",
+    "0-Inbox/Agile method.md",
+    "5-Image",
+    "Untitled.md",
+    "0-Inbox",
+    "1-Projects/Semester 1/Database/ER.md",
+    "1-Projects/Semester 1/Software Engineer",
+    "1-Projects/Semester 1/Database/Database.md",
+    "1-Projects/Semester 1/Networking/Untitled.md",
+    "1-Projects/Semester 1/Networking",
+    "1-Projects/Semester 1/Database/Untitled.md",
+    "1-Projects/Semester 1/Database/EERD.md",
+    "4-Archive/Place holder Archive.md",
     "2-Areas/Place holder.md",
     "3-Resources/Place holder resources.md",
-    "4-Archive/Place holder.md",
     "1-Projects/Untitled.md",
     "1-Projects/Semester 1/Game development",
     "1-Projects/Semester 1/Networking",
-    "1-Projects/Semester 1/Application Engineer",
+    "1-Projects/Semester 1/Software Engineer",
     "1-Projects/Semester 1/Database",
     "1-Projects/Semester 1",
     "Welcome.md",
-    "1-Projects/Database",
-    "4-Archive",
-    "3-Resources"
+    "1-Projects/Database"
   ]
 }
