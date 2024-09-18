@@ -73,4 +73,42 @@
 	- **Giao thức tầng ứng dụng**: Các máy chủ và hosts giao tiếp để giải quyết tên miền (dịch tên miền sang địa chỉ IP và ngược lại).
 	- **Chức năng cốt lõi của Internet**: DNS là một phần của tầng của ứng dụng, giúp Internet hoạt động.
 	- **Độ phức tạp**: Được tập trung tại rìa của mạng.
-	
+## Streaming multimedia: DASH
+- **DASH**: Dynamic Adaptive Straming trên HTTP
+- Ở hướng server:
+	- Chia files video thành các *chunks*
+	- Mỗi *chunk* chứa các dữ liệu và được encode với tốc độ khác nhau 
+	- **MANIFEST FILE**: cung cấp URLs cho các chunk khác nhau
+		![[Pasted image 20240918071451.png]]
+- Ở hướng client:
+	- Thường xuyên đo băng thông từ server-client.
+	- Yêu cầu mỗi chunk mỗi lần.
+		- Chọn tốc độ băng thông tối đa mà nó ổn định nhất có thể.
+		- Có thể cho phép chọn tốc độ băng thông khác nhau (nếu có thể trong khả năng băng thông hiện tại)
+- Mọi việc xử lý "thông minh" đều được xử lý ở client, thế nên client sẽ quyết định:
+	- **==Khi nào==** yêu cầu một chunk (để tránh tình trang starving và overflow)
+	- **==Bao nhiêu==** tốc độ encoding khi yêu cầu (cao nhất có thể).
+	- **==Chỗ nào==** để yêu cầu chunk (có thể yêu cầu từ URL server mà *đóng* với client hoặc có băng thông cao)
+- $=>$ ==Streaming video = encoding + DASH + playout buffering==
+## CDNs (Content distribution networks):
+- Ví dụ: Nếu muốn ==stream== một nội dung từ hàng ngàn hàng triệu người dùng ==liên tục== thì nó sẽ như nào ?
+- Cách giải quyết 1: tạo một server cực lớn.
+	- *Thế nhưng sẽ tốn rất rất nhiều tiền và không có hiệu quả kinh tế*
+- Cách giải quyết 2: Lưu trữ và phục vụ các nội dung ==stream== ở các khu vực địa lý khác nhau (CDNs)
+- ==CDN==: sẽ lưu trữ các copy của nội dung và ở các CDN nodes
+- ==Người dùng==: sẽ yêu cầu nội dung từ CDN.
+	- Có thể lấy trực tiếp từ nguồn có copy của nội dung đó gần nhất.
+	- Nếu không được thì sẽ đi tìm một node của CDN khác.
+	![[Pasted image 20240918073520.png]]
+## IPTV:
+- Tương tự như thế bên CDNs thì truyền hình cáp cũng hoạt động tương tự như thế. 
+	- ![[Pasted image 20240918073711.png]]
+		*Đối với IPTV thì sẽ nếu local distribution center nào có đống tiền thì sẽ được bộ giải mã của bên nhà đài để mã hóa thông tin được push từ các ==CDN== của đài truyền hình, nếu không có thì những tin hiệu đó vẫn đi qua mà không coi được thôi*
+## Cái nhìn tổng quát hơn về trường hợp CDNs của NetFlix:
+		![[Pasted image 20240918074124.png]]
+1. Đầu tiên Bob sẽ đi tìm film và yêu cầu video từ account của mình.
+2. Khi tìm xong Bob sẽ yêu cầu cho ==Manifest files==
+3. ==Manifest files== sẽ gửi những bản copy cho các CDNs.
+4. Ở CDNs gần Bob nhất (hoặc có băng thông cao nhất) sẽ truyền một bản copy của nội dung video mà Bob đã yêu cầu từ *Dash server* sau khi nó đã chọn và liên lạc tới máy client.
+## Lập trình socket với UDP và TCP:
+- Socket là  

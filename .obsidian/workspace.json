@@ -142,13 +142,21 @@
                 "file": "1-Projects/Semester 1/Networking/Application Layer.md"
               }
             }
+          },
+          {
+            "id": "95e571481c6a9042",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,8 +169,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5b017e1c57f9254",
+  "active": "ddab8e0f157544cb",
   "lastOpenFiles": [
+    "Pasted image 20240918074124.png",
+    "Pasted image 20240918073711.png",
+    "Pasted image 20240918073520.png",
+    "Pasted image 20240918071451.png",
+    "Pasted image 20240918071448.png",
     "0-Inbox/Inbox placeholder.md",
     "1-Projects/Semester 1/Software Engineer/Requirement Engineer.md",
     "0-Inbox/Web app.md",
@@ -173,11 +186,7 @@
     "Pasted image 20240917163711.png",
     "Pasted image 20240917163448.png",
     "Pasted image 20240917162739.png",
-    "Pasted image 20240917162420.png",
-    "Pasted image 20240917162234.png",
-    "Pasted image 20240917162136.png",
     "0-Inbox/Untitled.canvas",
-    "Pasted image 20240917162022.png",
     "0-Inbox/Agile method.md",
     "5-Image",
     "Untitled.md",
