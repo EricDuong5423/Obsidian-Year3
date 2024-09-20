@@ -7,4 +7,7 @@
 ## Sử dụng `require('http')` để tạo một server:
 - Ta cần khởi tạo một server bằng cách `const server = http.createServer((req, res) => {})` và 
 `sever.listen('{port}', '{hostname}')`.
-- Giải thích: server sẽ được tạo bằng lệnh 
+- Giải thích: server sẽ được tạo bằng lệnh createServer sau đó sẽ yêu cầu server listen trên ==port== và ==hostname== tương ứng. Sau đó server sẽ thực hiện lệnh trong function của createServer().
+## Sử dụng `require('url')` để routing một server:
+- Khi sử dụng routing ta sẽ cần có một biến để chứa URL hiện giờ của path đó như ví dụ: ![[Pasted image 20240920212323.png]]
+- Sau đó ta sẽ kiểm tra đường link bằng *if else* thế nhưng trong phép so sánh thì trước tên đường dẫn phải có dấu ==/== .
