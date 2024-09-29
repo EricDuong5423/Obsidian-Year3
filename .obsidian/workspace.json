@@ -80,6 +80,14 @@
         "type": "tabs",
         "children": [
           {
+            "id": "1f9f79053afc5a1c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "28e9cd8a31dec398",
             "type": "leaf",
             "state": {
@@ -128,17 +136,8 @@
                 "file": "4-Archive/Place holder Archive.md"
               }
             }
-          },
-          {
-            "id": "1f9f79053afc5a1c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +154,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ca11b92cc414a49",
+  "active": "1f9f79053afc5a1c",
   "lastOpenFiles": [
     "0-Inbox/2024-09-26.md",
     "Untitled.canvas",
