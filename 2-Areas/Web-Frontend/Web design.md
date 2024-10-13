@@ -14,3 +14,4 @@
 - **Playful/Fun**: là một thiết kế đầy màu sắc và bo góc. Được thêm các elements đầy sáng tạo như là các icons, illustrations, animations vẽ tay và các ngôn ngữ mang tính giải trí.
 	- ![[Screenshot 2024-10-13 at 10.06.40.png]]
 ## Topography:  [[Topography]]
+## Colors: [[Colors]]
