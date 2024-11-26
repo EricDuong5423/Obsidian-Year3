@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archive/Place holder Archive.md",
+                "file": "2-Areas/React-js/State management.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Place holder Archive.md",
+                "file": "2-Areas/React-js/State management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Archive/Place holder Archive.md",
+                "file": "2-Areas/React-js/State management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Archive/Place holder Archive.md"
+                "file": "2-Areas/React-js/State management.md"
               }
             }
           }
@@ -156,6 +156,7 @@
   },
   "active": "8ca11b92cc414a49",
   "lastOpenFiles": [
+    "4-Archive/Place holder Archive.md",
     "2-Areas/Web-Frontend/Web design.md",
     "2-Areas/Web-Frontend/Topography.md",
     "2-Areas/Web-Frontend/Positioning.md",
@@ -186,7 +187,6 @@
     "conflict-files-obsidian-git.md",
     "our-process2-905x509.jpg",
     "5-Image",
-    "4-Archive/Place holder Archive.md",
     "1-Projects/Semester 1/Software Engineer/Requirement Engineer.md",
     "1-Projects/Semester 1/Software Engineer",
     "0-Inbox/Inbox placeholder.md",
