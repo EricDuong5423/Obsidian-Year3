@@ -154,8 +154,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f9f79053afc5a1c",
+  "active": "8ca11b92cc414a49",
   "lastOpenFiles": [
+    "2-Areas/Web-Frontend/Web design.md",
+    "2-Areas/Web-Frontend/Topography.md",
+    "2-Areas/Web-Frontend/Positioning.md",
+    "2-Areas/Web-Frontend/Grid.md",
+    "2-Areas/Web-Frontend/Flex box.md",
+    "2-Areas/Web-Frontend/Colors.md",
+    "2-Areas/Web-Frontend",
+    "2-Areas/React-js/State management.md",
+    "2-Areas/React-js",
+    "0-Inbox/testing from mac.md",
     "0-Inbox/2024-09-26.md",
     "Untitled.canvas",
     "2-Areas/Web-Backend/Nodejs.md",
@@ -193,8 +203,6 @@
     "1-Projects/Semester 1/Application Engineer",
     "1-Projects/Semester 1/Database",
     "1-Projects/Semester 1",
-    "Welcome.md",
-    "1-Projects/Database",
-    "4-Archive"
+    "Welcome.md"
   ]
 }
