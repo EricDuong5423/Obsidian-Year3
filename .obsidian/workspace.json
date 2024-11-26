@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Areas/React-js/State management.md",
+                "file": "2-Areas/Web-Frontend/Grid.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Areas/React-js/State management.md",
+                "file": "2-Areas/Web-Frontend/Grid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Areas/React-js/State management.md",
+                "file": "2-Areas/Web-Frontend/Grid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Areas/React-js/State management.md"
+                "file": "2-Areas/Web-Frontend/Grid.md"
               }
             }
           }
@@ -156,20 +156,20 @@
   },
   "active": "8ca11b92cc414a49",
   "lastOpenFiles": [
+    "2-Areas/Web-Frontend/Flex box.md",
+    "2-Areas/Web-Frontend/Colors.md",
+    "2-Areas/Web-Backend/Nodejs.md",
+    "2-Areas/React-js/State management.md",
     "4-Archive/Place holder Archive.md",
     "2-Areas/Web-Frontend/Web design.md",
     "2-Areas/Web-Frontend/Topography.md",
     "2-Areas/Web-Frontend/Positioning.md",
     "2-Areas/Web-Frontend/Grid.md",
-    "2-Areas/Web-Frontend/Flex box.md",
-    "2-Areas/Web-Frontend/Colors.md",
     "2-Areas/Web-Frontend",
-    "2-Areas/React-js/State management.md",
     "2-Areas/React-js",
     "0-Inbox/testing from mac.md",
     "0-Inbox/2024-09-26.md",
     "Untitled.canvas",
-    "2-Areas/Web-Backend/Nodejs.md",
     "Pasted image 20240920212948.png",
     "Pasted image 20240920212323.png",
     "1-Projects/Semester 1/Networking/Application Layer.md",
